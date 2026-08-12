@@ -111,7 +111,7 @@ Future revisions will focus on improving electromagnetic compatibility and reduc
 ---
 
 ## 📂 Repository Structure
-{if you need gerber files feel free to contact me..!!}
+If you need gerber files feel free to contact me..!!
 
 ```text
 Images/
