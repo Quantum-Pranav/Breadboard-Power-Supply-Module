@@ -7,7 +7,7 @@ A compact multi-output DC–DC breadboard power module designed as an improved a
 ## 📷 Finished Hardware
 
 <p align="center">
-<img src="Images/final_board.jpg" width="700">
+<img src="Image/final_board.jpg" width="700">
 </p>
 
 *Fabricated and assembled breadboard power module.*
@@ -41,7 +41,7 @@ The objective of this project was to design a reliable breadboard power module c
 ## 🔧 Circuit Design
 
 <p align="center">
-<img src="Images/schematic.png" width="900">
+<img src="Image/schematic.png" width="900">
 </p>
 
 *Complete schematic of the breadboard power module.*
@@ -51,7 +51,7 @@ The objective of this project was to design a reliable breadboard power module c
 ## 🖥 PCB Design
 
 <p align="center">
-<img src="Images/pcb_3d.png" width="750">
+<img src="Image/pcb_3d.png" width="750">
 </p>
 
 The PCB was designed in **Altium Designer** using SMD components and optimized for switching regulator performance.
@@ -70,7 +70,7 @@ The PCB was designed in **Altium Designer** using SMD components and optimized f
 ## 📊 Experimental Results
 
 <p align="center">
-<img src="Images/oscilloscope.png" width="800">
+<img src="Image/oscilloscope.png" width="800">
 </p>
 
 ### Measured Performance
@@ -126,8 +126,6 @@ Hardware/
 ├── BOM.xlsx
 └── Test_Report.pdf
 
-Altium/
-└── Source Files
 ```
 
 ---
