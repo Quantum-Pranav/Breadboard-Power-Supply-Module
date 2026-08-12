@@ -111,6 +111,7 @@ Future revisions will focus on improving electromagnetic compatibility and reduc
 ---
 
 ## 📂 Repository Structure
+{if you need gerber files feel free to contact me..!!}
 
 ```text
 Images/
@@ -118,13 +119,6 @@ Images/
 ├── schematic.png
 ├── pcb_3d.png
 └── oscilloscope.png
-
-Hardware/
-├── Schematic.pdf
-├── PCB.pdf
-├── Gerbers.zip
-├── BOM.xlsx
-└── Test_Report.pdf
 
 ```
 
