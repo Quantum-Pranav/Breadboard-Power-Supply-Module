@@ -49,6 +49,9 @@ The objective of this project was to design a reliable breadboard power module c
 ---
 
 ## 🖥 PCB Design
+<p align="center">
+<img src="Image/unsold.png" width="750">
+</p>
 
 <p align="center">
 <img src="Image/pcb_3d.png" width="750">
